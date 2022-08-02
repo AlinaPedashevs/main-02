@@ -3634,7 +3634,7 @@ margin-bottom: 0;
 }
 .diagram__item-text.text-left-bottom {
     bottom: -14px;
-    left: -80px;
+    left: -66px;
 }
 .diagram__item-text.text-top.top {
     left: 10px;
@@ -3650,6 +3650,12 @@ margin-bottom: 0;
 .diagram__item-text.text-right-bottom-two.bottom {
     right: -126px;
     bottom: -10px;
+}
+.main-form__btn.main-form__btn-top::before {
+    left: -95px;
+}
+.btn-comments.button.main-form__btn.left::before {
+    left: -101px;
 }
 }
 
